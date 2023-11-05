@@ -1,2 +1,3 @@
 # Neo4j-Project
 Neo4j project
+The report encapsulates the Darwin City Hotel Group's project which focuses on the migration of their reservation and booking system to a NoSQL database, specifically Neo4j. It highlights the conversion of the initial EER model into a Neo4j-compatible graph model and the subsequent data migration through Cypher scripts. The documentation includes practical examples of Cypher queries, demonstrating various complexities in data retrieval and manipulation within the new system. Furthermore, it showcases the utilization of Neo4j's Graph Data Science Library to perform advanced analytics, illustrating the practical application of centrality and similarity algorithms to enhance the group's data analysis capabilities.
